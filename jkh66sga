@@ -4,7 +4,8 @@
           [type="button"]::-moz-focus-inner,
           [type="reset"]::-moz-focus-inner,
           [type="submit"]::-moz-focus-inner
-        ){border-style:none;padding:0;}fieldset{padding:0.35em 0.75em 0.625em;}
+        ){border-style:none;padding:0;}fieldset
+{padding:0.35em 0.75em 0.625em;}
 legend{box-sizing:border-box;color:inherit;display:tabl
 e;max-width:100%;padding:0;white-space:normal;}progress{vertical-align:baseline;}
 textarea{overflow:auto;}:where([type="checkbox"], [type="radio"])
